@@ -54,4 +54,4 @@ game:GetService("Workspace").mitapminecraft.HumanoidRootPart.CFrame = CFrame.new
 wait(0.7)
 game:GetService("Workspace").mitapminecraft.HumanoidRootPart.CFrame = CFrame.new(10.627511, 4.2541647, -37.2022858, 0.0418221392, 3.31335563e-08, 0.999125063, 6.58470656e-09, 1, -3.34382015e-08, -0.999125063, 7.97740185e-09, 0.0418221392)
 wait(0.7)
-game:GetService("Workspace").mitapminecraft.HumanoidRootPart.CFrame = CFrame.new(4.49734211, 4.2541523, -37.0305901, -0.0140128741, 7.47006794e-08, 0.999901831, 8.35702441e-09, 1, -7.45909006e-08, -0.999901831, 7.31097138e-09, -0.0140128741
+game:GetService("Workspace").mitapminecraft.HumanoidRootPart.CFrame = CFrame.new(4.49734211, 4.2541523, -37.0305901, -0.0140128741, 7.47006794e-08, 0.999901831, 8.35702441e-09, 1, -7.45909006e-08, -0.999901831, 7.31097138e-09, -0.0140128741)
